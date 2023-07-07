@@ -1,0 +1,82 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Abinaya",
+      "email": "abinaya@gmail.com",
+      "phone": "9257412365",
+      "active": false
+    },
+    {
+      "name": "Ricky",
+      "email": "ricky@gmail.com",
+      "phone": "98899090",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@gmail.com",
+      "phone": "908908767"
+    },
+    {
+      "id": 4,
+      "name": "Kane",
+      "email": "kane@gmail.com",
+      "phone": "908908767"
+    },
+    {
+      "id": 5,
+      "name": "vikram",
+      "email": "vikram@gmail.com",
+      "phone": "9089087673"
+    },
+    {
+      "name": "vishnu",
+      "email": "vishnu@gmail.com",
+      "phone": "8124613280",
+      "active": true,
+      "id": 6
+    },
+    {
+      "name": "Ahens",
+      "email": "ahens@gmail.com",
+      "phone": "9842518995",
+      "id": 7
+    },
+    {
+      "name": "Aveht",
+      "email": "aveht@gmail.com",
+      "phone": "9043314154",
+      "active": true,
+      "id": 8
+    },
+    {
+      "name": "Delvin",
+      "email": "delvin@gmail.com",
+      "phone": "9685741230",
+      "id": 9
+    },
+    {
+      "name": "Ram",
+      "email": "ram@gmail.com",
+      "phone": "6352417890",
+      "active": true,
+      "id": 10
+    },
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "phone": "9875462130",
+      "active": true,
+      "id": 11
+    },
+    {
+      "name": "Harry",
+      "email": "harry@gmail.com",
+      "phone": "9754692130",
+      "id": 12
+    }
+  ]
+}
